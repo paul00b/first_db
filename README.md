@@ -2,8 +2,11 @@
 
 Project Premieres Database with THP by Paul Broussolle aka <a href="https://www.youtube.com/watch?v=SSK2SrPU5hs&lc=z12ef5qpowijv1y4t04chvdrisenerehqb0">the minister of mixture</a>
 
-Lien vers les autres app, si j'ai le courage de les faire :
--
+
+## Lien vers les autres app, si j'ai le courage de les faire :
+- <a href="https://github.com/paul00b/MooCademy">MooCademy</a>
+
+Edit : J'ai eu la flemme de faire les autres, il est 1h et j'aime bbien trop mon lit pour ça. Et maintenant j'y arrive sans soucis.
 ## How to use ?
 
 1. Have a nice cup of coffee
